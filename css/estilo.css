@@ -1,0 +1,60 @@
+#content
+{
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:25%;
+    left:35%;
+    margin-top:-50px;
+    margin-left:-50px;
+}
+.divElement
+{
+    margin-top: 5px;
+}
+.formElementLabel
+{
+    margin-left: 5px;
+    margin-top: 15px;
+}
+.formElementText
+{
+    margin-top: 20px;
+    margin-left: 33px;
+    width: 80%;
+}
+.error
+{
+    margin-left: 85px;
+    margin-top: 10px;
+    color: red;
+}
+#lblMsg
+{
+    position: absolute;
+    top: 195px;
+}
+#txtMsg
+{
+    margin-top: 20px;
+    margin-left: 82px;
+    width: 80%;
+}
+#form input.btn_submit
+{
+    position:absolute;
+    left:95px;
+    margin-top:35px;
+    width:310px;
+    height:28px;
+}
+fieldset
+{
+    width:450px;
+    height:450px;
+}
+legend
+{
+    font-style:bold;
+    font-family: "Segoe UI";
+}
